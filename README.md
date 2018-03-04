@@ -20,5 +20,8 @@ In squarespace, navigate to Setting > Advanced > Code Inject
 Under "ORDER CONFIRMATION PAGE", paste the snippet
 
 
-
 Enjoy ;)
+
+
+Please donate to 1HNBcGmE3LfPwoe7TUfbtqcopmRza1nmGg to sponsor more free scripts and snippets
+You can also contact me at ztobscieng@gmail.com to hire me or for support.
